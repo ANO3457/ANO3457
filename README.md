@@ -1,4 +1,4 @@
-### Hey, I'm Ahmet ??
+### Hey, I'm Ahmet 👋
 
 I like building and fixing developer tools - mostly small, reliable things that do one job well without getting in the way.
 
