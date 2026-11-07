@@ -17,7 +17,7 @@ Most of my time goes into Python, TypeScript, CLI tools, parsers, and tracking d
 - **[laaielichter/Godotwright](https://github.com/laaielichter/Godotwright/pulls?q=is%3Apr+is%3Amerged+author%3AANO3457)** : Godot 3 to 4 migration engine and GDScript static analysis rules *(16 merged PRs)*
 - **[batrapulkit/squidbrake](https://github.com/batrapulkit/squidbrake/pulls?q=is%3Apr+is%3Amerged+author%3AANO3457)** : Runtime security firewall and CVE incident replays for AI coding agents *(12 merged PRs)*
 - **[CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+is%3Amerged+author%3AANO3457)** : Cross-language shader translator across CUDA, HIP, Metal, WGSL, and DirectX *(11 merged PRs)*
-- **[dbfixtures](https://github.com/search?q=org%3Adbfixtures+is%3Apr+is%3Amerged+author%3AANO3457&type=pullrequests)** (`pytest-postgresql`, `pytest-redis`, `pytest-mongo`) : Pytest database fixture plugins *(6 merged PRs)*
+- **[dbfixtures](https://github.com/search?q=org%3Adbfixtures+is%3Apr+is%3Amerged+author%3AANO3457&type=pullrequests)** (`pytest-postgresql`, `pytest-redis`, `pytest-mongo`) : Pytest database fixture plugins *(8 merged PRs)*
 
 #### How I work
 When I fix a bug, I write a test to reproduce it first before touching any code. I keep my PRs small, focused, and predictable - no giant refactors, no breaking changes, and tests that actually pass.
